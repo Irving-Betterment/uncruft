@@ -11,6 +11,10 @@ and this project aims to adhere to [Semantic Versioning](http://semver.org/spec/
 ### Removed <!-- for now removed features. -->
 ### Fixed <!-- for any bug fixes. -->
 
+## [0.7.2] - 2025-09-05
+### Removed <!-- for now removed features. -->
+- Drops support for Rails < 7.0
+
 ## [0.4.0] - 2024-01-02
 ### Removed <!-- for now removed features. -->
 - Drops support for Rails < 6.1
